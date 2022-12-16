@@ -17,7 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <spring-test>4.3.21.RELEASE</spring-test>
+    <spring-test>5.2.20.RELEASE</spring-test>
   </properties>
 
   <dependencies>
